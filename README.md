@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Manuel, a 3rd year student in Engineering and Management of Information Systems (LEGSI) at the University of Minho, in Portugal.
+
+- 💻 Currently exploring software development and building a solid technical foundation.
+- 🔒 In the future, I plan to enter the cybersecurity field.
+- 🛠️ **Main stack & tools:** Python, Java, SQL, Git, and Linux.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manuferreira50) or [email](manuferreiradev@gmail.com)
